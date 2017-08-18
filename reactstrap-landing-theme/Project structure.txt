@@ -1,0 +1,26 @@
+Project structure - 
+
+1) Components to make 
+	a) Navigation bar (done)
+
+	b) header section 
+
+	c) Connect with us section
+
+	d) Who we are section
+
+	e) latest work list
+		e.1) single latest work
+
+	f) Why work with us section
+
+	g) Customers section
+		g.1) reviews grid
+		g.2) single review
+
+	h) Pricing section
+		h.1) Single pricing list
+
+	i) contact section
+
+	j) Footer section 
